@@ -32,7 +32,7 @@
 * [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다](https://www.slideshare.net/yongho/ss-79607172?from_m_app=ios) - 이 슬라이드를 보고 나면, 유명한 영상인식을 위한 딥러닝 구조 VGG를 코드 수준에서 읽으실 수 있을 거에요 (하용호)
 
 ### 기사
-* [제프리 힌튼 캐나다 토론토대 교수 인터뷰 (2016)](https://news.joins.com/article/20382230]
+* [제프리 힌튼 캐나다 토론토대 교수 인터뷰 (2016)](https://news.joins.com/article/20382230)
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 * [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic)
