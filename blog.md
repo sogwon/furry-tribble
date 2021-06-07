@@ -11,8 +11,8 @@
 * https://spoqa.github.io/ - Spoqa 기술 블로그 - 열린 문화 속에서 일하는 스포카와 함께하세요
 * https://tech.kakao.com/blog/ - Kakao Tech Blog - 카카오의 서비스를 만드는 개발자들의 실제 개발 사례를 중심으로 기술과 노하우를 생생하게 전달합니다
 * https://woowabros.github.io/ - 우아한형제들 기술 블로그
-* Amazon Web Service 한국 블로그
-* RIDI Tech Blog - 우리가 겪었던 다양한 문제들과 해결 과정 및 개발 문화를 공유하고자 합니다
+* [Amazon Web Service 한국 블로그](https://aws.amazon.com/ko/blogs/korea/)
+* [RIDI Tech Blog](https://www.ridicorp.com/story-category/tech-blog/) - 우리가 겪었던 다양한 문제들과 해결 과정 및 개발 문화를 공유하고자 합니다
 * https://blog.twitter.com/developer/ - Twitter Developer Blog
 * https://blog.twitter.com/engineering/ - Twitter Engineering Blog 
 * https://developers.googleblog.com/ - Google Developers, Blog of our latest news, updates, and stories for developers
@@ -22,7 +22,7 @@
 * https://medium.com/towards-artificial-intelligence - Towards AI - The Best of Tech, Science, and Engineering
 * https://netflixtechblog.com/ - Netflix Technology Blog
 * https://towardsdatascience.com/ - A Medium publication sharing concepts, ideas, and codes
-* Microsoft Tech Community
+* [Microsoft Tech Community](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
 
 ### 프로그래머, 엔지니어 블로그
 * http://allofsoftware.net/ - 전규현의 소프트웨어 이야기
