@@ -46,6 +46,7 @@
 
 ### 기술문서
 * [Software Release Practice HOWTO](https://wiki.kldp.org/HOWTO/html/Software-Release-Practice-HOWTO/index.html)
+* [파이썬의 철학](https://gist.github.com/Nesffer/30651e6197f03eb029720a0e5b1e0c22)
 
 ### 에세이
 * [10배 뛰어난 개발자 되기](https://muchtrans.com/translations/10xdeveloper.ko.html)
