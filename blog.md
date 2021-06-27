@@ -25,6 +25,7 @@
 * [Microsoft Tech Community](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
 
 ### 프로그래머, 엔지니어 블로그
+* https://darkpgmr.tistory.com/ - 다크 프로그래머 (영상처리, 프로그래밍)
 * http://allofsoftware.net/ - 전규현의 소프트웨어 이야기
 * http://blog.daum.net/brown9 - 브라운9
 * http://blog.naver.com/todshrck/ - 망상 K
