@@ -52,4 +52,4 @@
 * [Andrej Karpathy](https://karpathy.ai/) - I like to train deep neural nets on large datasets
 
 ### 개인 홈페이지
-* [오현석](http://aistudy.com/)
+* [오현석](http://aistudy.com/) `접속 불가`
