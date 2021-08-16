@@ -3,14 +3,10 @@
 ### 자료 모음
 * [딥러닝 학습자료 모음](https://github.com/jwkcp/deeplearning) - 이 페이지는 개인적으로 딥러닝을 학습하면서 도움이 되었거나 자주 볼만한 자료들을 따로 모아둔 것입니다 (jwkcp)
 * [Machine Learning Study 혼자 해보기](https://github.com/teddylee777/machine-learning) - Google TensorFlow Developers Certificate. Interested in ML, DL, Lectures, Knowledge Sharing (Teddy Lee )
-* [머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course/) - Google's fast-paced, practical introduction to machine learning
-* [Papers you must read](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd) - Data Science & Business Analytics Lab
-* http://aistudy.com/ - 인공지능과 관련하여 도움이 되었으면 좋겠습니다 (오현석, 서울대학교 컴퓨터공학과 대학원)
-* http://colah.github.io/ - Christopher Olah - A wandering machine learning researcher, bouncing between groups
-* https://github.com/hongleizhang/RSPapers - Must-read papers on Recommender System
 
 ### 학습 사이트
 * https://karpathy.ai/ - Andrej Karpathy - I like to train deep neural nets on large datasets
+* [머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course/) - Google's fast-paced, practical introduction to machine learning
 
 ### 수업
 * [앤드류 응 교수의 머신러닝 수업](https://www.coursera.org/learn/machine-learning) - Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome (Coursera)
@@ -34,7 +30,12 @@
 * [스카이넷도 딥러닝부터](https://www.mindmeister.com/ko/812276967/_?fullscreen=1) - ‘개앞맵시’는 ‘개발자의 앞길에 맵핵 시전’을 줄인 말로, 어려서부터 꿈꿔온 후학 양성의 의지를 담은 필명. 직군별 개발자에게 필요한 기술과 역량을 다루는 책들로 로드맵을 만들어 공개 
 * [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다](https://www.slideshare.net/yongho/ss-79607172?from_m_app=ios) - 이 슬라이드를 보고 나면, 유명한 영상인식을 위한 딥러닝 구조 VGG를 코드 수준에서 읽으실 수 있을 거에요 (하용호)
 
-## 논문
+
+### 논문 모음
+* [Papers you must read](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd) - Data Science & Business Analytics Lab
+* https://github.com/hongleizhang/RSPapers - Must-read papers on Recommender System
+
+### 논문
 * [Joeran Beel et al. Research-Paper Recommender Systems: A Literature Survey](https://docear.org/papers/Research%20Paper%20Recommender%20Systems%20--%20A%20Literature%20Survey%20%28preprint%29.pdf)
 * [Paul Resnick et al. Recommender Systems](http://www.inf.unibz.it/~ricci/ISR/papers/resnick-varian97.pdf)
 * [Yehuda Koren et al. Matrix Factorization Techniques for Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf) : [리뷰 1](https://exmemory.tistory.com/59), [리뷰 2](https://blossominkyung.com/archives/matrix-factorization)
@@ -46,3 +47,9 @@
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 * [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic)
+
+### 블로그
+* [Christopher Olah](http://colah.github.io/)
+
+### 개인 홈페이지
+* [오현석](http://aistudy.com/)
