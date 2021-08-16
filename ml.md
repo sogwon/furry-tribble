@@ -4,12 +4,8 @@
 * https://github.com/jwkcp/deeplearning
 * https://github.com/teddylee777/machine-learning
 
-### 학습 사이트
-* https://developers.google.com/machine-learning/crash-course/ - Google's fast-paced, practical introduction to machine learning
-
 ### 수업
-* [앤드류 응 교수의 머신러닝 수업](https://www.coursera.org/learn/machine-learning) - Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome (Coursera)
-* [대소니의 머신러닝 노트 (Tistory)](https://daeson.tistory.com/category/Machine%20Learning)
+* [앤드류 응 교수의 머신러닝 수업](https://www.coursera.org/learn/machine-learning) `Coursera`
 * [한성대학교 기계학습 수업 (지준 교수)](http://jun.hansung.ac.kr/ML/)
 * [논문으로 짚어보는 딥러닝의 맥 (최성준 박사)](https://www.edwith.org/deeplearningchoi/joinLectures/10979) 
 * [이것이 데이터 분석이다 with 파이썬](https://www.youtube.com/playlist?list=PLVsNizTWUw7FmLj3IMECoauQ_-DUbNF0M)
@@ -18,7 +14,11 @@
 * [Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2) - YouTube
 * [Essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&app=desktop) - YouTube
 
+### 학습 사이트
+* https://developers.google.com/machine-learning/crash-course/ - Google's fast-paced, practical introduction to machine learning
+
 ### 참고 자료
+* [대소니](https://daeson.tistory.com/category/Machine%20Learning) - 앤드류 응 교수의 머신러닝 수업에 대한 한글 노트
 * [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/)
 * [추천 시스템 알고리즘 트랜드](http://hoondongkim.blogspot.com/2019/03/recommendation-trend.html)
 * [전상혁. 추천 시스템 (Matrix Completion)](http://sanghyukchun.github.io/73/)
