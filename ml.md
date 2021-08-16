@@ -1,8 +1,8 @@
 # 머신러닝
 
 ### 자료 모음
-* [딥러닝 학습자료 모음](https://github.com/jwkcp/deeplearning) - 이 페이지는 개인적으로 딥러닝을 학습하면서 도움이 되었거나 자주 볼만한 자료들을 따로 모아둔 것입니다 (jwkcp)
-* [Machine Learning Study 혼자 해보기](https://github.com/teddylee777/machine-learning) - Google TensorFlow Developers Certificate. Interested in ML, DL, Lectures, Knowledge Sharing (Teddy Lee )
+* https://github.com/jwkcp/deeplearning - 이 페이지는 개인적으로 딥러닝을 학습하면서 도움이 되었거나 자주 볼만한 자료들을 따로 모아둔 것입니다 (jwkcp)
+* https://github.com/teddylee777/machine-learning - Google TensorFlow Developers Certificate. Interested in ML, DL, Lectures, Knowledge Sharing (Teddy Lee )
 
 ### 학습 사이트
 * https://karpathy.ai/ - Andrej Karpathy - I like to train deep neural nets on large datasets
