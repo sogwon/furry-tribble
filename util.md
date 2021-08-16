@@ -17,7 +17,13 @@
 ### 이미지 
 * https://miricanvas.com/ - 미리캔버스 - 저작권 걱정 없는 무료 디자인 툴
 * https://remove.bg/ko - 100% 자동 및 무료 이미지에서 배경 제거
+* https://2colors.colorion.co/ - 최적의 색조합
 * https://pixlr.com/kr/editor/ - 온라인 사진 편집기
+* https://iconmonstr.com/ - 무료 아이콘
+
+### 오디오, 비디오
+* https://clovadubbing.naver.com/ - 클로버 더빙
+* https://www.classicmanager.com/ - 클래식 음악
 
 ### 네트워크
 * https://whois.nida.or.kr/ - 후이즈.한국
@@ -46,3 +52,5 @@
 * https://bitly.com/ - Links that mean business
 * https://namecheckr.com/ - search domain and social username availability
 * http://pica-pic.com/ - retro handheld games collection 
+* https://trends.google.co.kr/trends/?geo=KR - Google 트랜드
+* https://www.adsoftheworld.com/ - Ads of the World
