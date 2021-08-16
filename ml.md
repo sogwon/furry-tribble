@@ -15,7 +15,7 @@
 * [앤드류 응 교수의 머신러닝 수업](https://www.coursera.org/learn/machine-learning) - Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome (Coursera)
 * [대소니의 머신러닝 노트 (Tistory)](https://daeson.tistory.com/category/Machine%20Learning)
 * [한성대학교 기계학습 수업 (지준 교수)](http://jun.hansung.ac.kr/ML/)
-* [논문으로 짚어보는 딥러닝의 맥(최성준 박사)](https://www.edwith.org/deeplearningchoi/joinLectures/10979) 
+* [논문으로 짚어보는 딥러닝의 맥 (최성준 박사)](https://www.edwith.org/deeplearningchoi/joinLectures/10979) 
 * [이것이 데이터 분석이다 with 파이썬](https://www.youtube.com/playlist?list=PLVsNizTWUw7FmLj3IMECoauQ_-DUbNF0M)
 * [Intro to TensorFlow for Deep Learning by TensorFlow](udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 * [10 min Deep Learning](https://www.youtube.com/channel/UCSjQTKAWlgUB3voH_1zBdJg/videos) - 문과생이 딥러닝에 대해 배운 내용을 정리하고 발전시키기 위해 매주 1회 10분 동영상을 업로드 (전현규)
