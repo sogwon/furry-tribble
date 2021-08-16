@@ -7,6 +7,7 @@
 * [Papers you must read](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd) - Data Science & Business Analytics Lab
 * http://aistudy.com/ - 인공지능과 관련하여 도움이 되었으면 좋겠습니다 (오현석, 서울대학교 컴퓨터공학과 대학원)
 * http://colah.github.io/ - Christopher Olah - A wandering machine learning researcher, bouncing between groups
+* https://github.com/hongleizhang/RSPapers - Must-read papers on Recommender System
 
 ### 학습 사이트
 * https://karpathy.ai/ - Andrej Karpathy - I like to train deep neural nets on large datasets
