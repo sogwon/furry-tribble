@@ -1,12 +1,12 @@
 # 머신러닝
 
 ### 자료 모음
-* https://github.com/jwkcp/deeplearning - 이 페이지는 개인적으로 딥러닝을 학습하면서 도움이 되었거나 자주 볼만한 자료들을 따로 모아둔 것입니다 (jwkcp)
-* https://github.com/teddylee777/machine-learning - Google TensorFlow Developers Certificate. Interested in ML, DL, Lectures, Knowledge Sharing (Teddy Lee )
+* https://github.com/jwkcp/deeplearning
+* https://github.com/teddylee777/machine-learning
 
 ### 학습 사이트
+* https://developers.google.com/machine-learning/crash-course/ - Google's fast-paced, practical introduction to machine learning
 * https://karpathy.ai/ - Andrej Karpathy - I like to train deep neural nets on large datasets
-* [머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course/) - Google's fast-paced, practical introduction to machine learning
 
 ### 수업
 * [앤드류 응 교수의 머신러닝 수업](https://www.coursera.org/learn/machine-learning) - Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome (Coursera)
