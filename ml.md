@@ -6,7 +6,6 @@
 
 ### 학습 사이트
 * https://developers.google.com/machine-learning/crash-course/ - Google's fast-paced, practical introduction to machine learning
-* https://karpathy.ai/ - Andrej Karpathy - I like to train deep neural nets on large datasets
 
 ### 수업
 * [앤드류 응 교수의 머신러닝 수업](https://www.coursera.org/learn/machine-learning) - Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome (Coursera)
@@ -49,7 +48,8 @@
 * [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic)
 
 ### 블로그
-* [Christopher Olah](http://colah.github.io/)
+* [Christopher Olah](http://colah.github.io/) - Trying to understand things well and explain them clearly. Find me on Twitter.
+* [Andrej Karpathy](https://karpathy.ai/) - I like to train deep neural nets on large datasets
 
 ### 개인 홈페이지
 * [오현석](http://aistudy.com/)
