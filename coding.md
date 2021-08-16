@@ -46,10 +46,11 @@
 
 ### 기술문서
 * [Software Release Practice HOWTO](https://wiki.kldp.org/HOWTO/html/Software-Release-Practice-HOWTO/index.html)
-* [파이썬의 철학](https://gist.github.com/Nesffer/30651e6197f03eb029720a0e5b1e0c22)
 
 ### 에세이
 * [10배 뛰어난 개발자 되기](https://muchtrans.com/translations/10xdeveloper.ko.html)
+* [파이썬의 철학](https://gist.github.com/Nesffer/30651e6197f03eb029720a0e5b1e0c22)
+* [히트맵 시각화 튜토리얼](https://dschloe.github.io/python/python_edu/03_datavisualisation/ch_heatmap/)
 
 ### 프로그래머
 * https://gvanrossum.github.io/ - Guido van Rossum - Personal Home Page 
