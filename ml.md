@@ -5,8 +5,8 @@
 * https://github.com/teddylee777/machine-learning
 
 ### 수업
-* [앤드류 응 교수의 머신러닝 수업](https://www.coursera.org/learn/machine-learning) `Coursera`
-* [한성대학교 기계학습 수업 (지준 교수)](http://jun.hansung.ac.kr/ML/)
+* [앤드류 응 교수. 머신러닝 수업](https://www.coursera.org/learn/machine-learning) `Coursera`
+* [지준 교수. 기계학습 수업. 한성대학교](http://jun.hansung.ac.kr/ML/)
 * [대소니](https://daeson.tistory.com/category/Machine%20Learning) - 앤드류 응 교수의 머신러닝 수업에 대한 한글 노트
 * [논문으로 짚어보는 딥러닝의 맥 (최성준 박사)](https://www.edwith.org/deeplearningchoi/joinLectures/10979) 
 * [이것이 데이터 분석이다 with 파이썬](https://www.youtube.com/playlist?list=PLVsNizTWUw7FmLj3IMECoauQ_-DUbNF0M)
