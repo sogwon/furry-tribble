@@ -7,6 +7,7 @@
 ### 수업
 * [앤드류 응 교수의 머신러닝 수업](https://www.coursera.org/learn/machine-learning) `Coursera`
 * [한성대학교 기계학습 수업 (지준 교수)](http://jun.hansung.ac.kr/ML/)
+* [대소니](https://daeson.tistory.com/category/Machine%20Learning) - 앤드류 응 교수의 머신러닝 수업에 대한 한글 노트
 * [논문으로 짚어보는 딥러닝의 맥 (최성준 박사)](https://www.edwith.org/deeplearningchoi/joinLectures/10979) 
 * [이것이 데이터 분석이다 with 파이썬](https://www.youtube.com/playlist?list=PLVsNizTWUw7FmLj3IMECoauQ_-DUbNF0M)
 * [Intro to TensorFlow for Deep Learning by TensorFlow](udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
@@ -18,7 +19,6 @@
 * https://developers.google.com/machine-learning/crash-course/ - Google's fast-paced, practical introduction to machine learning
 
 ### 참고 자료
-* [대소니](https://daeson.tistory.com/category/Machine%20Learning) - 앤드류 응 교수의 머신러닝 수업에 대한 한글 노트
 * [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/)
 * [추천 시스템 알고리즘 트랜드](http://hoondongkim.blogspot.com/2019/03/recommendation-trend.html)
 * [전상혁. 추천 시스템 (Matrix Completion)](http://sanghyukchun.github.io/73/)
