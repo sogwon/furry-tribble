@@ -1,13 +1,13 @@
 # 머신러닝
 
 ### 자료 모음
-* https://github.com/jwkcp/deeplearning
-* https://github.com/teddylee777/machine-learning
+* [Jaewoong. 딥러닝 학습자료 모음. `GitHub`](https://github.com/jwkcp/deeplearning)
+* [Teddy Lee et al. Machine Learning Study 혼자 해보기. `GitHub`]https://github.com/teddylee777/machine-learning
 
 ### 수업
-* [앤드류 응. `Coursera` 머신러닝 수업. Stanford University](https://www.coursera.org/learn/machine-learning)
+* [앤드류 응. 머신러닝 수업. `Coursera`: Stanford University](https://www.coursera.org/learn/machine-learning)
 * [지준. 기계학습 수업. 한성대학교 IT응용시스템공학과](http://jun.hansung.ac.kr/ML/)
-* [대소니. `티스토리` 머신러닝 노트](https://daeson.tistory.com/category/Machine%20Learning) - 앤드류 응 교수의 머신러닝 수업에 대한 한글 노트
+* [대소니. 머신러닝 노트. `티스토리`](https://daeson.tistory.com/category/Machine%20Learning) - 앤드류 응 교수의 머신러닝 수업에 대한 한글 노트
 * [최성준. 논문으로 짚어보는 딥러닝의 맥](https://www.edwith.org/deeplearningchoi/joinLectures/10979) 
 * [이것이 데이터 분석이다 with 파이썬](https://www.youtube.com/playlist?list=PLVsNizTWUw7FmLj3IMECoauQ_-DUbNF0M)
 * [Intro to TensorFlow for Deep Learning by TensorFlow](https://udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
