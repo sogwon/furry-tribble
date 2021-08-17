@@ -5,10 +5,10 @@
 * https://github.com/teddylee777/machine-learning
 
 ### 수업
-* 앤드류 응 교수. [머신러닝 수업](https://www.coursera.org/learn/machine-learning) `Coursera`
-* 지준 교수. [기계학습 수업](http://jun.hansung.ac.kr/ML/). 한성대학교
+* [앤드류 응. 머신러닝 수업](https://www.coursera.org/learn/machine-learning) `Coursera`
+* [지준. 기계학습 수업. 한성대학교](http://jun.hansung.ac.kr/ML/)
 * [대소니](https://daeson.tistory.com/category/Machine%20Learning) - 앤드류 응 교수의 머신러닝 수업에 대한 한글 노트
-* 최성준 박사. [논문으로 짚어보는 딥러닝의 맥](https://www.edwith.org/deeplearningchoi/joinLectures/10979) 
+* [최성준. 논문으로 짚어보는 딥러닝의 맥](https://www.edwith.org/deeplearningchoi/joinLectures/10979) 
 * [이것이 데이터 분석이다 with 파이썬](https://www.youtube.com/playlist?list=PLVsNizTWUw7FmLj3IMECoauQ_-DUbNF0M)
 * [Intro to TensorFlow for Deep Learning by TensorFlow](https://udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 * [10 min Deep Learning](https://www.youtube.com/channel/UCSjQTKAWlgUB3voH_1zBdJg/videos) - 문과생이 딥러닝에 대해 배운 내용을 정리하고 발전시키기 위해 매주 1회 10분 동영상을 업로드 (전현규)
