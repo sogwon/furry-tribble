@@ -35,6 +35,30 @@
 * [Gamepot](https://www.google.com/url?q=https%3A%2F%2Fwww.ncloud.com%2Fproduct%2Fgame%2Fgamepot&sa=D&sntz=1&usg=AFQjCNEM2OC74NZraNOBSNHgcUp7aVdjYQ)  - 게임에 필요한 기능을 쉽고 빠르게 구현할 수 있는 강력하고 편리한 통합 매니지먼트 서비스 플랫폼 입니다
 * [Gamebase](https://www.google.com/url?q=https%3A%2F%2Fwww.toast.com%2Fkr%2Fservice%2Fgame%2Fgamebase&sa=D&sntz=1&usg=AFQjCNFPj5bBiZJm_-jVRK8hALJENB3nMQ) - 게임 플랫폼 선두 기업 NHN의 10년 노하우를 담은 Gamebase, 자신 있게 추천합니다
 
+### 모바일 앱 
+* https://www.is.com/ - One platform to turn your app into a business
+* https://www.applovin.com/ - Everything you need to grow your mobile apps
+
+### 광고
+* https://admob.google.com/ - 앱에서 더 많은 수익을 올리세요
+* https://mopub.com/ - Provides monetization solutions for mobile app publishers and developers around the globe
+* http://unityads.co.kr/ - 최상의 수익을 최고의 모바일 광고 네트워크와 함께 하세요
+* https://nativex.com/ - 다양한 채널을 넘나드는 확실한 퍼포먼스. 전세계를 향한 가파른 성장
+* http://adxcorp.kr/ - Maximize your revenue
+* https://home.yodo1.com/ - world’s highest-performing game monetization platform.
+
+### 데이터 분석 및 마케팅
+* https://adjust.com/ - 모바일 마케팅의 효과를 높여보세요
+* https://singular.net/ - Zero time chasing data. More time driving growth
+* https://appsflyer.com/ - Attribution data you can trust
+* https://adbrix.io/ - Build your own data platform in 10 minutes 
+* https://ab180.co/ - Maximizing Data, Maximizing Performance
+* https://airbridge.io/ - The Complete Toolkit For Marketers
+* https://amplitude.com/  #1 Product Intelligence
+* https://braze.com/ - Makes messages feel more like conversations between you and your customers across channels like push, email, in-app, and more 
+* https://branch.io/- 업계 최고의 모바일 측정 및 딥링킹 플랫폼
+* http://coresight.io/ - Big data for game analytics
+
 ### 메시징
 * https://clickatell.com/ - Clickatell helps you turn social chat into user-friendly conversations and revenue
 * https://globfone.com/ - Globfone SMS Messenger
@@ -53,25 +77,6 @@
 * https://freshdesk.com/ - 평생고객을 만드는 고객 지원 솔루션
 * https://helpshift.com/ - One Connected Customer Service Experience
 * https://instabug.com/ - Connect With Customers, Iterate Faster, and Ship Quality Apps
-
-### 광고
-* https://admob.google.com/ - 앱에서 더 많은 수익을 올리세요
-* https://mopub.com/ - Provides monetization solutions for mobile app publishers and developers around the globe
-* http://unityads.co.kr/ - 최상의 수익을 최고의 모바일 광고 네트워크와 함께 하세요
-* https://nativex.com/ - 다양한 채널을 넘나드는 확실한 퍼포먼스. 전세계를 향한 가파른 성장
-* http://adxcorp.kr/ - Maximize your revenue
-
-### 데이터 분석 및 마케팅
-* https://adjust.com/ - 모바일 마케팅의 효과를 높여보세요
-* https://singular.net/ - Zero time chasing data. More time driving growth
-* https://appsflyer.com/ - Attribution data you can trust
-* https://adbrix.io/ - Build your own data platform in 10 minutes 
-* https://ab180.co/ - Maximizing Data, Maximizing Performance
-* https://airbridge.io/ - The Complete Toolkit For Marketers
-* https://amplitude.com/  #1 Product Intelligence
-* https://braze.com/ - Makes messages feel more like conversations between you and your customers across channels like push, email, in-app, and more 
-* https://branch.io/- 업계 최고의 모바일 측정 및 딥링킹 플랫폼
-* http://coresight.io/ - Big data for game analytics
 
 ### 컨텐츠 관리, 번역 관리
 * https://movabletype.com/ - Data API make it possible to manage content beyond web
