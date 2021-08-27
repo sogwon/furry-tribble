@@ -26,14 +26,19 @@
 * https://www.fluentd.org/ - Build Your Unified Logging Layer
 
 ### 게이밍 
-* https://thebackend.io/ - 대한민국에서 가장 많이 사용하는 완성형 게임 백엔드입니다
-* https://playnanoo.com/ - 서버 구축 없이 글로벌 게임 서버를 SDK 하나로 구현하세요.
 * https://playfab.com/ - 게임 업계에서 가장 강력한 백 엔드 플랫폼
 * https://photonengine.com/ - 멀티플레이를 간단하게 실현합니다
+* https://gamesparks.com/ - The Easiest Way to Build, Deploy and Scale Game Backends
+* https://accelbyte.io/ - One Stop Shop for Live Game Services
+* https://www.beamable.com/ - The creator-centric platform for building live games in Unity
 * https://agones.dev/ - Multiplayer dedicated game servers anywhere
 * https://openmatch.dev/- Connect players from around the world to the games they love
+* https://thebackend.io/ - 대한민국에서 가장 많이 사용하는 완성형 게임 백엔드입니다
+* https://playnanoo.com/ - 서버 구축 없이 글로벌 게임 서버를 SDK 하나로 구현하세요.
 * [Gamepot](https://www.google.com/url?q=https%3A%2F%2Fwww.ncloud.com%2Fproduct%2Fgame%2Fgamepot&sa=D&sntz=1&usg=AFQjCNEM2OC74NZraNOBSNHgcUp7aVdjYQ)  - 게임에 필요한 기능을 쉽고 빠르게 구현할 수 있는 강력하고 편리한 통합 매니지먼트 서비스 플랫폼 입니다
 * [Gamebase](https://www.google.com/url?q=https%3A%2F%2Fwww.toast.com%2Fkr%2Fservice%2Fgame%2Fgamebase&sa=D&sntz=1&usg=AFQjCNFPj5bBiZJm_-jVRK8hALJENB3nMQ) - 게임 플랫폼 선두 기업 NHN의 10년 노하우를 담은 Gamebase, 자신 있게 추천합니다
+* [Twitter Fabric](https://blog.twitter.com/ko_kr/a/ko/2014/introducing-fabric-kr) - 2014년 Twitter에서 발표한 모듈형 모바일 플랫폼, 2017년 Google에서 인수
+* https://www.skillz.com/ - The Platform For Competitive Mobile Games
 
 ### 모바일 앱 
 * https://www.is.com/ - One platform to turn your app into a business
@@ -45,8 +50,10 @@
 * http://unityads.co.kr/ - 최상의 수익을 최고의 모바일 광고 네트워크와 함께 하세요
 * https://nativex.com/ - 다양한 채널을 넘나드는 확실한 퍼포먼스. 전세계를 향한 가파른 성장
 * http://adxcorp.kr/ - Maximize your revenue
+* https://adop.cc/en/home-2/ - Ad-tech company that highly specializes in providing ad monetization services
 * https://home.yodo1.com/ - world’s highest-performing game monetization platform.
-
+* https://www.aarki.com/ - 수준 높은 모바일 마케팅
+* 
 ### 데이터 분석 및 마케팅
 * https://adjust.com/ - 모바일 마케팅의 효과를 높여보세요
 * https://singular.net/ - Zero time chasing data. More time driving growth
