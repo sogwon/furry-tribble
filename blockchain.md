@@ -17,3 +17,27 @@
 ## GitHub
 * https://github.com/trottier/original-bitcoin
 * https://github.com/ethereum
+
+## 도서
+* 정민아, 마크게이츠 (2018). 하룻밤에 읽는 블록체인. 블루페가수스
+* 박성혁, 박주규, 윤종흠, 이대승, 이승재 (2018). KEEP !T 블록체인 상식사전. 솔앤유
+* Don Tapscott, Alex Tapscott (2016), 박지훈 역 (2017). Blockahain Revolution (블록체인 혁명)
+
+## 인물
+
+* [Nakamoto Satoshi](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
+* [Gavin Andresen](https://en.wikipedia.org/wiki/Gavin_Andresen)
+* [Winklevoss twins](https://en.wikipedia.org/wiki/Winklevoss_twins)
+* [Roger Ver](https://twitter.com/rogerkver)
+* [Jihan Wu](https://twitter.com/jihanwu)
+* [Vitalik Buterin](https://twitter.com/vitalikbuterin)
+* [Dan Larimer](https://twitter.com/bytemaster7)
+* [Ralph Merkle](https://www.merkle.com/)
+* [Don Tapscott](https://dontapscott.com/)
+* [Alex Tapscott](http://www.alextapscott.com/)
+* [Charlie Shrem](https://twitter.com/CharlieShrem)
+* [Alexander Vinnik](https://en.wikipedia.org/wiki/Alexander_Vinnik)
+* [Nick Szabo](https://twitter.com/nickszabo4)
+* [김진화](http://wiki.hash.kr/index.php/%EA%B9%80%EC%A7%84%ED%99%94)
+* [권도형](http://wiki.hash.kr/index.php/%EA%B6%8C%EB%8F%84%ED%98%95)
+* [신현성](http://wiki.hash.kr/index.php/%EC%8B%A0%ED%98%84%EC%84%B1)
