@@ -9,7 +9,7 @@
 ## 웹 사이트
 * https://www.coinmarketcap.com/
 * https://www.blockchain.com/
-* 
+
 ## 기술문서
 * [Bitcoin](https://developer.bitcoin.org/devguide/)
 * [Solidity](https://docs.soliditylang.org/en/v0.8.7/)
