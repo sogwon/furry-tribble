@@ -38,6 +38,8 @@
 * [Charlie Shrem](https://twitter.com/CharlieShrem)
 * [Alexander Vinnik](https://en.wikipedia.org/wiki/Alexander_Vinnik)
 * [Nick Szabo](https://twitter.com/nickszabo4)
+* [Floyd Mayweather](https://twitter.com/floydmayweather)
+* [Charlie Lee](https://twitter.com/satoshilite)
 * [김진화](http://wiki.hash.kr/index.php/%EA%B9%80%EC%A7%84%ED%99%94)
 * [권도형](http://wiki.hash.kr/index.php/%EA%B6%8C%EB%8F%84%ED%98%95)
 * [신현성](http://wiki.hash.kr/index.php/%EC%8B%A0%ED%98%84%EC%84%B1)
