@@ -21,7 +21,8 @@
 ## 도서
 * 정민아, 마크게이츠 (2018). 하룻밤에 읽는 블록체인. 블루페가수스
 * 박성혁, 박주규, 윤종흠, 이대승, 이승재 (2018). KEEP !T 블록체인 상식사전. 솔앤유
-* Don Tapscott, Alex Tapscott (2016), 박지훈 역 (2017). Blockahain Revolution (블록체인 혁명)
+* 김가영, 조원선 (2021). 블록체인 키플레이어: 암호화폐 거래소. 지식과감성
+* Don Tapscott, Alex Tapscott (2016), 박지훈 역 (2017). Blockahain Revolution (블록체인 혁명). Penguin Random House LLC., 을유문화사
 
 ## 인물
 
