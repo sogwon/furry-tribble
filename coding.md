@@ -23,6 +23,8 @@
 ### 데이터베이스
 * https://postgresql.org/ - The World's Most Advanced Open Source Relational Database
 * http://couchbase.com/ - Nosql Database For Business-Critical Applications
+* https://www.mongodb.com/ - Build faster, Build smarter
+* https://www.elastic.co/ - Elastic은 강력한 검색 기능을 통해 사람들이 차별화된 방식으로 데이터를 탐색하고 분석할 수 있도록 도와줍니다
 
 ### 리소스
 * https://maxmind.com/ - Detect Online Fraud and Locate Online Visitors
