@@ -21,6 +21,10 @@
 * https://ncloud.com/ - NBP는 보다 안전하고 품질 높은 서비스를 제공하기 위해 인프라 기술과 서비스 운영 역량을 세계적인 수준으로 발전시켜왔습니다
 * https://toast.com/ - 복잡한 인프라와 플랫폼 개발, 운영 업무는 TOAST에 맡기고 콘텐츠 개발에만 집중하세요
 
+### 엣지 컴퓨팅
+* https://www.fastly.com/ - 더 많은 제어, 더 빠른 콘텐츠, 진지하게 동적 응용 프로그램
+* https://www.crowdstrike.com/ - Secure your most critical areas of enterprise risk to stay ahead of today's threats and stop breaches. Learn how our Security Cloud powers your protection
+
 ### 서버 콤포넌트
 * https://cdnjs.com/ - The best FOSS CDN for web related libraries to speed up your websites
 * https://www.aerospike.com/ - The only database that can reliably handle internet-scale data volumes and decisions at millisecond speeds
@@ -31,7 +35,8 @@
 * https://photonengine.com/ - 멀티플레이를 간단하게 실현합니다
 * https://gamesparks.com/ - The Easiest Way to Build, Deploy and Scale Game Backends
 * https://accelbyte.io/ - One Stop Shop for Live Game Services
-* https://www.beamable.com/ - The creator-centric platform for building live games in Unity
+* https://beamable.com/ - The creator-centric platform for building live games in Unity
+* https://pragma.gg/ - Build and scale games faster, simpler, and more reliably
 * https://agones.dev/ - Multiplayer dedicated game servers anywhere
 * https://openmatch.dev/- Connect players from around the world to the games they love
 * https://thebackend.io/ - 대한민국에서 가장 많이 사용하는 완성형 게임 백엔드입니다
@@ -55,18 +60,6 @@
 * https://home.yodo1.com/ - world’s highest-performing game monetization platform.
 * https://www.aarki.com/ - 수준 높은 모바일 마케팅
 
-### 데이터 분석 및 마케팅
-* https://adjust.com/ - 모바일 마케팅의 효과를 높여보세요
-* https://singular.net/ - Zero time chasing data. More time driving growth
-* https://appsflyer.com/ - Attribution data you can trust
-* https://adbrix.io/ - Build your own data platform in 10 minutes 
-* https://ab180.co/ - Maximizing Data, Maximizing Performance
-* https://airbridge.io/ - The Complete Toolkit For Marketers
-* https://amplitude.com/  #1 Product Intelligence
-* https://braze.com/ - Makes messages feel more like conversations between you and your customers across channels like push, email, in-app, and more 
-* https://branch.io/- 업계 최고의 모바일 측정 및 딥링킹 플랫폼
-* http://coresight.io/ - Big data for game analytics
-
 ### 메시징
 * https://clickatell.com/ - Clickatell helps you turn social chat into user-friendly conversations and revenue
 * https://globfone.com/ - Globfone SMS Messenger
@@ -85,6 +78,7 @@
 * https://freshdesk.com/ - 평생고객을 만드는 고객 지원 솔루션
 * https://helpshift.com/ - One Connected Customer Service Experience
 * https://instabug.com/ - Connect With Customers, Iterate Faster, and Ship Quality Apps
+* https://www.livechat.com/ - LiveChat은 고객을 즐겁게 하고 판매를 촉진하는 완벽한 고객 서비스 플랫폼입니다
 
 ### 컨텐츠 관리, 번역 관리
 * https://movabletype.com/ - Data API make it possible to manage content beyond web
@@ -100,10 +94,27 @@
 * https://sentry.io/ - Stop hoping your users will report errors
 * https://site24x7.com/ - Monitoring Availability and End User Experience Made Simple
 
+### 데이터 분석 및 마케팅
+* https://adjust.com/ - 모바일 마케팅의 효과를 높여보세요
+* https://singular.net/ - Zero time chasing data. More time driving growth
+* https://appsflyer.com/ - Attribution data you can trust
+* https://adbrix.io/ - Build your own data platform in 10 minutes 
+* https://ab180.co/ - Maximizing Data, Maximizing Performance
+* https://airbridge.io/ - The Complete Toolkit For Marketers
+* https://amplitude.com/  #1 Product Intelligence
+* https://braze.com/ - Makes messages feel more like conversations between you and your customers across channels like push, email, in-app, and more 
+* https://branch.io/- 업계 최고의 모바일 측정 및 딥링킹 플랫폼
+* http://coresight.io/ - Big data for game analytics
+
 ### 데이터 관리 툴
 * https://aquafold.com/ - Database And Data Management, And Visual Analytics
 * https://dbvis.com/ - The Universal Database Tool For Developers, DBAs and Analysts
 * https://chequer.io/ - Data analysis gather data insights faster with our advanced Integrated Data Analysis Environment, QueryPie
+* https://www.snowflake.com/ - Where your data cloud experience begins
+* https://www.mongodb.com/ - Build faster, Build smarter
+* https://www.elastic.co/ - Elastic은 강력한 검색 기능을 통해 사람들이 차별화된 방식으로 데이터를 탐색하고 분석할 수 있도록 도와줍니다
+* https://www.workiva.com/ - Connect to data sources, automate workflow, and get transparency into every action. Trust what you do from financial reports to ESG disclosures to internal audit and beyond
+* https://www.splunk.com/ - Unlock innovation, improve security and drive resilience
 
 ### 학습 사이트
 * https://google.qwiklabs.com/ - Become a Google Cloud Platform expert with hands-on training
