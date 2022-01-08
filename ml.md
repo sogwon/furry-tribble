@@ -29,10 +29,10 @@
 * [스카이넷도 딥러닝부터](https://www.mindmeister.com/ko/812276967/_?fullscreen=1) - ‘개앞맵시’는 ‘개발자의 앞길에 맵핵 시전’을 줄인 말로, 어려서부터 꿈꿔온 후학 양성의 의지를 담은 필명. 직군별 개발자에게 필요한 기술과 역량을 다루는 책들로 로드맵을 만들어 공개 
 * [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다](https://www.slideshare.net/yongho/ss-79607172?from_m_app=ios) - 이 슬라이드를 보고 나면, 유명한 영상인식을 위한 딥러닝 구조 VGG를 코드 수준에서 읽으실 수 있을 거에요 (하용호)
 
-
 ### 논문 모음
 * [Papers you must read](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd) - Data Science & Business Analytics Lab
 * https://github.com/hongleizhang/RSPapers - Must-read papers on Recommender System
+* https://paperswithcode.com/ - Trending Research
 
 ### 논문
 * [Joeran Beel et al. Research-Paper Recommender Systems: A Literature Survey](https://docear.org/papers/Research%20Paper%20Recommender%20Systems%20--%20A%20Literature%20Survey%20%28preprint%29.pdf)
