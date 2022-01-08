@@ -111,8 +111,6 @@
 * https://dbvis.com/ - The Universal Database Tool For Developers, DBAs and Analysts
 * https://chequer.io/ - Data analysis gather data insights faster with our advanced Integrated Data Analysis Environment, QueryPie
 * https://www.snowflake.com/ - Where your data cloud experience begins
-* https://www.mongodb.com/ - Build faster, Build smarter
-* https://www.elastic.co/ - Elastic은 강력한 검색 기능을 통해 사람들이 차별화된 방식으로 데이터를 탐색하고 분석할 수 있도록 도와줍니다
 * https://www.workiva.com/ - Connect to data sources, automate workflow, and get transparency into every action. Trust what you do from financial reports to ESG disclosures to internal audit and beyond
 * https://www.splunk.com/ - Unlock innovation, improve security and drive resilience
 
