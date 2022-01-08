@@ -16,6 +16,7 @@
 ### 클라우드 서버
 * https://cloud.google.com/ - 다양한 문제를 해결해 주는 Google Cloud
 * https://aws.amazon.com/ - 지금 AWS를 사용하여 구축 시작
+* https://repost.aws/ - aws re:Post gives you access to a vibrant community that helps you become even more successful on AWS
 * https://azure.microsoft.com/ - 목표를 기반으로 개발
 * https://ncloud.com/ - NBP는 보다 안전하고 품질 높은 서비스를 제공하기 위해 인프라 기술과 서비스 운영 역량을 세계적인 수준으로 발전시켜왔습니다
 * https://toast.com/ - 복잡한 인프라와 플랫폼 개발, 운영 업무는 TOAST에 맡기고 콘텐츠 개발에만 집중하세요
@@ -53,7 +54,7 @@
 * https://adop.cc/en/home-2/ - Ad-tech company that highly specializes in providing ad monetization services
 * https://home.yodo1.com/ - world’s highest-performing game monetization platform.
 * https://www.aarki.com/ - 수준 높은 모바일 마케팅
-* 
+
 ### 데이터 분석 및 마케팅
 * https://adjust.com/ - 모바일 마케팅의 효과를 높여보세요
 * https://singular.net/ - Zero time chasing data. More time driving growth
