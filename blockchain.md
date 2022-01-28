@@ -1,14 +1,16 @@
 # 블록체인
 
+## 웹 사이트
+* https://www.coinmarketcap.com/
+* https://www.blockchain.com/
+* https://dappradar.com/
+* https://etherscan.io/
+
 ## 논문
 * [Satoshi Nakamoto (20008). Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 * [David Chaum (1998). Blind Signatures for Untraceable Payments](http://blog.koehntopp.de/uploads/Chaum.BlindSigForPayment.1982.PDF)
 * [Wei Dai (1998). b-money](https://www.weidai.com/bmoney.txt)
 * [Nick Szabo (2018). Bit Gold](https://unenumerated.blogspot.com/2005/12/bit-gold.html)
-
-## 웹 사이트
-* https://www.coinmarketcap.com/
-* https://www.blockchain.com/
 
 ## 기술문서
 * [Bitcoin](https://developer.bitcoin.org/devguide/)
