@@ -1,11 +1,14 @@
 # 블록체인
 
 ## 웹 사이트
-* https://www.coinmarketcap.com/
-* https://www.blockchain.com/
-* https://dappradar.com/
-* https://etherscan.io/
-* https://www.hyperledger.org/
+* https://etherscan.io/ - The Ethereum Blockchain Explorer
+* https://www.coinmarketcap.com/ - Cryptocurrency Prices 
+* https://www.blockchain.com/ - The world’s most popular way to buy, sell, and trade crypto
+* https://dappradar.com/ - Discover, Track & Trade Everything DeFi, NFT and Gaming
+* https://www.hyperledger.org/ - Building enterprise blockchain ecosystems through global, open source collaboration
+* https://juicebox.money/ - Community funding for people and projects
+* https://mirror.xyz/ - Create and connect your world on web3
+* https://gnosis-safe.io/ - The most trusted platform to manage digital assets on Ethereum
 
 ## 논문
 * [Satoshi Nakamoto (20008). Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
