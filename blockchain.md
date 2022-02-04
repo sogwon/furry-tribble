@@ -9,6 +9,12 @@
 * https://juicebox.money/ - Community funding for people and projects
 * https://mirror.xyz/ - Create and connect your world on web3
 * https://gnosis-safe.io/ - The most trusted platform to manage digital assets on Ethereum
+* [Binance](https://www.binance.com/en) - Buy & sell Crypto in minutes
+* [FTX](https://ftx.com/)
+* [Coinbase](https://www.coinbase.com/) – Buy & Sell Bitcoin, Ethereum, and more with trust
+* https://www.elevatebrands.com/ - We buy consumer-leading Amazon brands and elevate them to their full potential
+* https://frognationdao.com/ - Decentralized Finanze for All People
+
 
 ## 논문
 * [Satoshi Nakamoto (20008). Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
