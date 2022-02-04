@@ -5,6 +5,7 @@
 * https://www.blockchain.com/
 * https://dappradar.com/
 * https://etherscan.io/
+* https://www.hyperledger.org/
 
 ## 논문
 * [Satoshi Nakamoto (20008). Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
@@ -46,3 +47,7 @@
 * [김진화](http://wiki.hash.kr/index.php/%EA%B9%80%EC%A7%84%ED%99%94)
 * [권도형](http://wiki.hash.kr/index.php/%EA%B6%8C%EB%8F%84%ED%98%95)
 * [신현성](http://wiki.hash.kr/index.php/%EC%8B%A0%ED%98%84%EC%84%B1)
+
+## 기사
+
+* [Galaxy Digital Research의 “DAOs, THE FUTURE OF ORGANIZING COMMUNITIES ONLINE” 리포트 한글로 씹어 읽기](https://medium.com/@riversh0215/galaxy-digital-research%EC%9D%98-daos-the-future-of-organizing-communities-online-%EB%A6%AC%ED%8F%AC%ED%8A%B8-%ED%95%9C%EA%B8%80%EB%A1%9C-%EC%94%B9%EC%96%B4-%EC%9D%BD%EA%B8%B0-b3a20ae9a402)
