@@ -53,3 +53,6 @@
 
 ### 개인 홈페이지
 * [오현석](http://aistudy.com/) `접속 불가`
+* https://tylervigen.com/spurious-correlations - Spurious Correlations was a project I put together as a fun way to look at correlations and to think about data
+
+
