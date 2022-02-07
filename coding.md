@@ -45,6 +45,7 @@
 ### 강의
 * [파이썬 입문](https://programmers.co.kr/learn/courses/2) - 프로그래머스
 * [Tableau 무료 교육 동영상](https://www.tableau.com/ko-kr/learn/training/20211) 
+* [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg) - Timo Bingmann
 
 ### 기술문서
 * [Software Release Practice HOWTO](https://wiki.kldp.org/HOWTO/html/Software-Release-Practice-HOWTO/index.html)
