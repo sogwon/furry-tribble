@@ -2,24 +2,30 @@
 
 ## 웹 사이트
 * https://etherscan.io/ - The Ethereum Blockchain Explorer
-* https://www.coinmarketcap.com/ - Cryptocurrency Prices 
-* https://www.blockchain.com/ - The world’s most popular way to buy, sell, and trade crypto
+* https://coinmarketcap.com/ - Cryptocurrency Prices 
+* https://blockchain.com/ - The world’s most popular way to buy, sell, and trade crypto
 * https://dappradar.com/ - Discover, Track & Trade Everything DeFi, NFT and Gaming
-* https://www.hyperledger.org/ - Building enterprise blockchain ecosystems through global, open source collaboration
 * https://juicebox.money/ - Community funding for people and projects
 * https://mirror.xyz/ - Create and connect your world on web3
 * https://gnosis-safe.io/ - The most trusted platform to manage digital assets on Ethereum
-* [Binance](https://www.binance.com/en) - Buy & sell Crypto in minutes
+* [Binance](https://binance.com/en) - Buy & sell Crypto in minutes
 * [FTX](https://ftx.com/)
-* [Coinbase](https://www.coinbase.com/) – Buy & Sell Bitcoin, Ethereum, and more with trust
-* https://www.elevatebrands.com/ - We buy consumer-leading Amazon brands and elevate them to their full potential
+* [Coinbase](https://coinbase.com/) – Buy & Sell Bitcoin, Ethereum, and more with trust
+* https://elevatebrands.com/ - We buy consumer-leading Amazon brands and elevate them to their full potential
 * https://frognationdao.com/ - Decentralized Finanze for All People
 
+## 플랫폼
+* https://hyperledger.org/ - Building enterprise blockchain ecosystems through global, open source collaboration
+* https://luniverse.io/ - Build, deploy and manage innovative solutions using blockchains
+* https://playdapp.io/ - We have developed a blockchain-based game that everyone can enjoy
+* https://venly.io/ - Onboard your users with our easy to implement Wallet services. And experience the full potential with our NFT tools and NFT marketplace
+* https://blocksdk.com/ - 간편 컨트렉트 발행 기능 과 블록체인 서비스 개발을 단순화하여 블록체인에 전문화된 개발자 없이 빠르게 개발할수 있는 API 와 완성형 솔루션 제공 서비스입니다
+* https://dexlab.space/ - Dexlab makes launching on Solana easy with a token minting lab, a launchpad and a dedicated DEX for all listings
 
 ## 논문
 * [Satoshi Nakamoto (20008). Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 * [David Chaum (1998). Blind Signatures for Untraceable Payments](http://blog.koehntopp.de/uploads/Chaum.BlindSigForPayment.1982.PDF)
-* [Wei Dai (1998). b-money](https://www.weidai.com/bmoney.txt)
+* [Wei Dai (1998). b-money](https://weidai.com/bmoney.txt)
 * [Nick Szabo (2018). Bit Gold](https://unenumerated.blogspot.com/2005/12/bit-gold.html)
 
 ## 기술문서
@@ -45,9 +51,9 @@
 * [Jihan Wu](https://twitter.com/jihanwu)
 * [Vitalik Buterin](https://twitter.com/vitalikbuterin)
 * [Dan Larimer](https://twitter.com/bytemaster7)
-* [Ralph Merkle](https://www.merkle.com/)
+* [Ralph Merkle](https://merkle.com/)
 * [Don Tapscott](https://dontapscott.com/)
-* [Alex Tapscott](http://www.alextapscott.com/)
+* [Alex Tapscott](http://alextapscott.com/)
 * [Charlie Shrem](https://twitter.com/CharlieShrem)
 * [Alexander Vinnik](https://en.wikipedia.org/wiki/Alexander_Vinnik)
 * [Nick Szabo](https://twitter.com/nickszabo4)
