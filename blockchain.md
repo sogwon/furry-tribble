@@ -10,7 +10,7 @@
 * https://gnosis-safe.io/ - The most trusted platform to manage digital assets on Ethereum
 * https://binance.com/en - Buy & sell Crypto in minutes
 * https://ftx.com/ - Trade Anywhere & Anytime
-* [Coinbase](https://coinbase.com/) – Buy & Sell Bitcoin, Ethereum, and more with trust
+* https://coinbase.com/ – Buy & Sell Bitcoin, Ethereum, and more with trust
 * https://elevatebrands.com/ - We buy consumer-leading Amazon brands and elevate them to their full potential
 * https://frognationdao.com/ - Decentralized Finanze for All People
 
