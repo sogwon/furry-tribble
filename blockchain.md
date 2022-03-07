@@ -8,8 +8,8 @@
 * https://juicebox.money/ - Community funding for people and projects
 * https://mirror.xyz/ - Create and connect your world on web3
 * https://gnosis-safe.io/ - The most trusted platform to manage digital assets on Ethereum
-* [Binance](https://binance.com/en) - Buy & sell Crypto in minutes
-* [FTX](https://ftx.com/)
+* https://binance.com/en - Buy & sell Crypto in minutes
+* https://ftx.com/ - Trade Anywhere & Anytime
 * [Coinbase](https://coinbase.com/) – Buy & Sell Bitcoin, Ethereum, and more with trust
 * https://elevatebrands.com/ - We buy consumer-leading Amazon brands and elevate them to their full potential
 * https://frognationdao.com/ - Decentralized Finanze for All People
