@@ -19,8 +19,9 @@
 * https://luniverse.io/ - Build, deploy and manage innovative solutions using blockchains
 * https://playdapp.io/ - We have developed a blockchain-based game that everyone can enjoy
 * https://venly.io/ - Onboard your users with our easy to implement Wallet services. And experience the full potential with our NFT tools and NFT marketplace
-* https://blocksdk.com/ - 간편 컨트렉트 발행 기능 과 블록체인 서비스 개발을 단순화하여 블록체인에 전문화된 개발자 없이 빠르게 개발할수 있는 API 와 완성형 솔루션 제공 서비스입니다
 * https://dexlab.space/ - Dexlab makes launching on Solana easy with a token minting lab, a launchpad and a dedicated DEX for all listings
+* https://blocksdk.com/ - 간편 컨트렉트 발행 기능 과 블록체인 서비스 개발을 단순화하여 블록체인에 전문화된 개발자 없이 빠르게 개발할수 있는 API 와 완성형 솔루션 제공 서비스입니다
+* http://hexlant.com/ - 블록체인 지갑 옥텟 월렛을 통해 빠르게 블록체인 산업에 도전하세요
 
 ## 논문
 * [Satoshi Nakamoto (20008). Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
