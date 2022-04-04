@@ -22,6 +22,7 @@
 * https://dexlab.space/ - Dexlab makes launching on Solana easy with a token minting lab, a launchpad and a dedicated DEX for all listings
 * https://blocksdk.com/ - 간편 컨트렉트 발행 기능 과 블록체인 서비스 개발을 단순화하여 블록체인에 전문화된 개발자 없이 빠르게 개발할수 있는 API 와 완성형 솔루션 제공 서비스입니다
 * http://hexlant.com/ - 블록체인 지갑 옥텟 월렛을 통해 빠르게 블록체인 산업에 도전하세요
+* https://portto.com/ - Simplifies How Blockchain Works
 
 ## NFT 마켓플레이스
 * https://opensea.io/
@@ -39,6 +40,7 @@
 * https://upbit.com/nft
 * https://nft.korbit.co.kr/
 * https://playdapp.com/ - Etherium & Polygon
+* https://dooverse.io/ 
 
 ## 논문
 * [Satoshi Nakamoto (20008). Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
