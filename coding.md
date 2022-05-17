@@ -11,6 +11,7 @@
 * https://cloud.r-project.org/ - The comprehensive R archive network
 * https://pandas.pydata.org/ - Fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language
 * https://jquery.com/ - Fast, small, and feature-rich JavaScript library
+* https://babeljs.io/ - Babel is a JavaScript compiler.
 
 ### 개발 도구
 * https://colab.research.google.com/ - Google Colaboratory 
