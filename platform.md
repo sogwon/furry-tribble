@@ -68,6 +68,7 @@
 * https://silverstreet.com/ - High level and reliable solutions across the messaging space
 * https://smsglobal.com/ - Messaging built for business
 * https://solapi.com/ - 운영 10년의 노하우가 집약된 새로운 메시징 플랫폼
+* https://matrix.org/ - An open network for secure, decentralized communication
 
 ### 채팅
 * https://sendbird.com/ - Our need for connecting with each other never stops. Connect your users - doctors, gamers, shoppers, or lovers - wherever they are
