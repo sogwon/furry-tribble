@@ -60,19 +60,23 @@
 * https://home.yodo1.com/ - world’s highest-performing game monetization platform.
 * https://www.aarki.com/ - 수준 높은 모바일 마케팅
 
-### 메시징
-* https://clickatell.com/ - Clickatell helps you turn social chat into user-friendly conversations and revenue
+### 메일링
 * https://secure.ozmailer.com/ - 대량 메일 발송
+* https://www.helloinbox.email/ - Poor email deliverability is probably the cause
+
+### 메시징
 * https://plivo.com/ - Build your business on an enterprise grade network. Create your first app in 5 minutes
 * https://silverstreet.com/ - High level and reliable solutions across the messaging space
 * https://solapi.com/ - 운영 10년의 노하우가 집약된 새로운 메시징 플랫폼
-* https://www.helloinbox.email/ - Poor email deliverability is probably the cause
 * https://globfone.com/ - Globfone SMS Messenger
 * https://smsglobal.com/ - Messaging built for business
-* 
+* https://www.messagebird.com/ - An omnichannel communications platform, built for global scale
+* https://www.infobip.com/ - The World's Most Connected Cloud Communications Platform
+
 ### 채팅
 * https://sendbird.com/ - Our need for connecting with each other never stops. Connect your users - doctors, gamers, shoppers, or lovers - wherever they are
 * https://talkplus.io/intro - MAU 제한없이 메시지 사용량 기준만으로 합리적으로 과금하며 고가용성 인프라를 통해 보다 안정적인 채팅 API 서비스를 제공합니다
+* https://clickatell.com/ - Clickatell helps you turn social chat into user-friendly conversations and revenue
 * https://matrix.org/ - An open network for secure, decentralized communication
 
 ### 고객 서비스
