@@ -45,6 +45,7 @@
 * https://putty.org/ - SSH and telnet client, developed originally by Simon Tatham
 * http://writemonkey.com/ - leaving you alone with your thoughts and your words
 * https://portableapps.com/ - Keep Work and Personal Separate
+* https://alternativeto.net/ - Cloudsorced Software Recommendations
 
 ### 기타
 * https://padlet.com/ - 읽기 쉽고 즐겁게 기여할 수 있는 아름다운 보드, 문서, 웹페이지를 만들어보세요
