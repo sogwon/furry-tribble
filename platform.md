@@ -3,6 +3,7 @@
 ### 앱 마켓 플랫폼
 * https://developer.apple.com/ - Build Your Vision
 * https://developers.google.com/ - Build anything with Google
+* https://play.google.com/sdks - Google Play SDK Index
 * https://dev.onestore.co.kr/ - One Store Developer Center - 매일매일 새로운 즐거움을 발견합니다
 
 ### 소셜 플랫폼
