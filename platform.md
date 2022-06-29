@@ -86,6 +86,7 @@
 * https://helpshift.com/ - One Connected Customer Service Experience
 * https://instabug.com/ - Connect With Customers, Iterate Faster, and Ship Quality Apps
 * https://www.livechat.com/ - LiveChat은 고객을 즐겁게 하고 판매를 촉진하는 완벽한 고객 서비스 플랫폼입니다
+* https://www.oqupie.com/ko/ - 진정한 서비스 출시는 고객센터부터
 
 ### 컨텐츠 관리, 번역 관리
 * https://movabletype.com/ - Data API make it possible to manage content beyond web
