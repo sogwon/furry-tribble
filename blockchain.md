@@ -45,6 +45,7 @@
 * https://playdapp.com/ - Etherium & Polygon
 * https://dooverse.io/ - Dooverse의 1차 베타 서비스 컬렉션은 한국의 NFT 산업에서 하나의 레전드가 될 것입니다. 
 * https://archivebymbc.com/ - MBC의 모든 순간을 NFT로
+
 ## 논문
 * [Satoshi Nakamoto (20008). Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 * [David Chaum (1998). Blind Signatures for Untraceable Payments](http://blog.koehntopp.de/uploads/Chaum.BlindSigForPayment.1982.PDF)
