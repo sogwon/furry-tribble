@@ -24,6 +24,8 @@
 * http://hexlant.com/ - 블록체인 지갑 옥텟 월렛을 통해 빠르게 블록체인 산업에 도전하세요
 * https://portto.com/ - Simplifies How Blockchain Works
 * https://ready.gg/ - Social gaming infrastructure for the Web3 creator economy
+* https://pala.world/ - 크립토 자산 투자자들을 위한 진정한 탈중앙화 소셜 플랫폼
+* https://www.blocko.io/ - Managed Service Blockchain Simplified
 
 ## NFT 마켓플레이스
 * https://opensea.io/
@@ -41,7 +43,7 @@
 * https://upbit.com/nft
 * https://nft.korbit.co.kr/
 * https://playdapp.com/ - Etherium & Polygon
-* https://dooverse.io/ 
+* https://dooverse.io/ - Dooverse의 1차 베타 서비스 컬렉션은 한국의 NFT 산업에서 하나의 레전드가 될 것입니다. 
 
 ## 논문
 * [Satoshi Nakamoto (20008). Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
