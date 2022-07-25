@@ -26,6 +26,7 @@
 * https://ready.gg/ - Social gaming infrastructure for the Web3 creator economy
 * https://pala.world/ - 크립토 자산 투자자들을 위한 진정한 탈중앙화 소셜 플랫폼
 * https://www.blocko.io/ - Managed Service Blockchain Simplified
+* https://trustwallet.com/ - The most trusted & secure crypto wallet
 
 ## NFT 마켓플레이스
 * https://opensea.io/
