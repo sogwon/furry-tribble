@@ -1,24 +1,12 @@
 # 블록체인
 
-## 웹 사이트
-* https://etherscan.io/ - The Ethereum Blockchain Explorer
-* https://coinmarketcap.com/ - Cryptocurrency Prices 
-* https://blockchain.com/ - The world’s most popular way to buy, sell, and trade crypto
-* https://dappradar.com/ - Discover, Track & Trade Everything DeFi, NFT and Gaming
+## 플랫폼
 * https://juicebox.money/ - Community funding for people and projects
 * https://mirror.xyz/ - Create and connect your world on web3
 * https://gnosis-safe.io/ - The most trusted platform to manage digital assets on Ethereum
-* https://binance.com/en - Buy & sell Crypto in minutes
-* https://ftx.com/ - Trade Anywhere & Anytime
-* https://coinbase.com/ – Buy & Sell Bitcoin, Ethereum, and more with trust
-* https://elevatebrands.com/ - We buy consumer-leading Amazon brands and elevate them to their full potential
-* https://frognationdao.com/ - Decentralized Finanze for All People
-
-## 플랫폼
 * https://hyperledger.org/ - Building enterprise blockchain ecosystems through global, open source collaboration
 * https://luniverse.io/ - Build, deploy and manage innovative solutions using blockchains
 * https://playdapp.io/ - We have developed a blockchain-based game that everyone can enjoy
-* https://venly.io/ - Onboard your users with our easy to implement Wallet services. And experience the full potential with our NFT tools and NFT marketplace
 * https://dexlab.space/ - Dexlab makes launching on Solana easy with a token minting lab, a launchpad and a dedicated DEX for all listings
 * https://blocksdk.com/ - 간편 컨트렉트 발행 기능 과 블록체인 서비스 개발을 단순화하여 블록체인에 전문화된 개발자 없이 빠르게 개발할수 있는 API 와 완성형 솔루션 제공 서비스입니다
 * http://hexlant.com/ - 블록체인 지갑 옥텟 월렛을 통해 빠르게 블록체인 산업에 도전하세요
@@ -26,7 +14,19 @@
 * https://ready.gg/ - Social gaming infrastructure for the Web3 creator economy
 * https://pala.world/ - 크립토 자산 투자자들을 위한 진정한 탈중앙화 소셜 플랫폼
 * https://www.blocko.io/ - Managed Service Blockchain Simplified
+
+## 커뮤니티
+* https://frognationdao.com/ - Decentralized Finanze for All People
+
+## 지갑 서비스
+* https://venly.io/ - Onboard your users with our easy to implement Wallet services. And experience the full potential with our NFT tools and NFT marketplace
 * https://trustwallet.com/ - The most trusted & secure crypto wallet
+
+## 코인 거래소
+* https://binance.com/en - Buy & sell Crypto in minutes
+* https://ftx.com/ - Trade Anywhere & Anytime
+* https://coinbase.com/ – Buy & Sell Bitcoin, Ethereum, and more with trust
+* https://blockchain.com/ - The world’s most popular way to buy, sell, and trade crypto
 
 ## NFT 마켓플레이스
 * https://opensea.io/
@@ -46,6 +46,12 @@
 * https://playdapp.com/ - Etherium & Polygon
 * https://dooverse.io/ - Dooverse의 1차 베타 서비스 컬렉션은 한국의 NFT 산업에서 하나의 레전드가 될 것입니다. 
 * https://archivebymbc.com/ - MBC의 모든 순간을 NFT로
+
+## 일반
+* https://etherscan.io/ - The Ethereum Blockchain Explorer
+* https://coinmarketcap.com/ - Cryptocurrency Prices 
+* https://dappradar.com/ - Discover, Track & Trade Everything DeFi, NFT and Gaming
+* https://elevatebrands.com/ - We buy consumer-leading Amazon brands and elevate them to their full potential
 
 ## 논문
 * [Satoshi Nakamoto (20008). Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
