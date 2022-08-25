@@ -112,6 +112,7 @@
 * https://amplitude.com/  #1 Product Intelligence
 * https://braze.com/ - Makes messages feel more like conversations between you and your customers across channels like push, email, in-app, and more 
 * https://branch.io/- 업계 최고의 모바일 측정 및 딥링킹 플랫폼
+* https://www.wisetracker.co.kr/ - 고객 행동을 기반으로 모바일 비즈니스의 성공을 지원합니다. 앱 마케팅 최적화의 시작, Wisetracker와 함께하세요
 * http://coresight.io/ - Big data for game analytics
 
 ### 데이터 관리 툴
