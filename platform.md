@@ -60,6 +60,7 @@
 * https://adop.cc/en/home-2/ - Ad-tech company that highly specializes in providing ad monetization services
 * https://home.yodo1.com/ - world’s highest-performing game monetization platform.
 * https://www.aarki.com/ - 수준 높은 모바일 마케팅
+* https://www.pathmatics.com/ - Dynamic Ad Intelligence for the Digital Landscape
 
 ## 메일링
 * https://secure.ozmailer.com/ - 대량 메일 발송
