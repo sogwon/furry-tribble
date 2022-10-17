@@ -61,6 +61,8 @@
 * https://home.yodo1.com/ - world’s highest-performing game monetization platform.
 * https://www.aarki.com/ - 수준 높은 모바일 마케팅
 * https://www.pathmatics.com/ - Dynamic Ad Intelligence for the Digital Landscape
+* https://www.moloco.com/ko/ - 데이터, 퍼포먼스를 극대화하다.
+* https://www.is.com/ko/ - 성공적인 앱 비즈니스를 위한 단 하나의 플랫폼. 개발자는 앱 개발과 유저 경험 향상에만 집중할 수 있도록, 모바일 비즈니스에 필요한 모든 기능을 한 플랫폼에 담았습니다.
 
 ## 메일링
 * https://secure.ozmailer.com/ - 대량 메일 발송
