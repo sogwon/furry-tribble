@@ -33,6 +33,9 @@
 * https://venly.io/ - Onboard your users with our easy to implement Wallet services. And experience the full potential with our NFT tools and NFT marketplace
 * https://trustwallet.com/ - The most trusted & secure crypto wallet
 
+## KYC 서비스
+* https://argoskyc.com/ - Argos KYC aims to provide a global online identity verification solution for KYC and AML screening
+
 ## 코인 거래소
 * https://binance.com/en - Buy & sell Crypto in minutes
 * https://ftx.com/ - Trade Anywhere & Anytime
