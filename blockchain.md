@@ -11,6 +11,7 @@
 * https://blocksdk.com/ - 간편 컨트렉트 발행 기능 과 블록체인 서비스 개발을 단순화하여 블록체인에 전문화된 개발자 없이 빠르게 개발할수 있는 API 와 완성형 솔루션 제공 서비스입니다
 * https://tor.us/ - An open source, non-custodial key management network
 * https://mirrorworld.fun/ - Few Lines of Mobile Code, All of Crypto’s Potential
+* https://x.la/ - XLA provides tools and services that change how IP creators, owners, and holders generate, earn and share revenue, building the bridge between Web2 and Web3 and simplifying the complexity of Web3 payments for non-technical users.
 
 ## 게임 플랫폼
 * https://playdapp.io/ - We have developed a blockchain-based game that everyone can enjoy
