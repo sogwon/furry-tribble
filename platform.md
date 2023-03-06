@@ -76,6 +76,7 @@
 * https://smsglobal.com/ - Messaging built for business
 * https://www.messagebird.com/ - An omnichannel communications platform, built for global scale
 * https://www.infobip.com/ - The World's Most Connected Cloud Communications Platform
+* https://www.flarelane.com/ - 푸시 마케팅의 새로운 표준
 
 ## 채팅
 * https://sendbird.com/ - Our need for connecting with each other never stops. Connect your users - doctors, gamers, shoppers, or lovers - wherever they are
