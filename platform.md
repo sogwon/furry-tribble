@@ -119,6 +119,7 @@
 * https://branch.io/- 업계 최고의 모바일 측정 및 딥링킹 플랫폼
 * https://www.wisetracker.co.kr/ - 고객 행동을 기반으로 모바일 비즈니스의 성공을 지원합니다. 앱 마케팅 최적화의 시작, Wisetracker와 함께하세요
 * http://coresight.io/ - Big data for game analytics
+* https://groobee.net/ - 이커머스 고객 경험을 혁신하는 AI 개인화 마테크(MarTech) 솔루션
 
 ## 데이터 관리 툴
 * https://aquafold.com/ - Database And Data Management, And Visual Analytics
