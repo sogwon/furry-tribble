@@ -1,5 +1,13 @@
 # 머신러닝
 
+### AWS
+* [Amazon Bedrock](https://aws.amazon.com/ko/bedrock/) - 기본 모델을 사용하여 생성형 AI 애플리케이션을 구축하고 규모를 조정하는 가장 쉬운 방법
+* [Amazon EC2 Inf2 인스턴스](https://aws.amazon.com/ko/ec2/instance-types/inf2/) - Amazon EC2에서 생성형 AI를 위한 고성능 기능을 최저 비용으로 제공
+* [Amazon SageMaker JumpStart](https://aws.amazon.com/ko/sagemaker/jumpstart/?sagemaker-data-wrangler-whats-new.sort-by=item.additionalFields.postDateTime&sagemaker-data-wrangler-whats-new.sort-order=desc) - 클릭 몇 번으로 배포 가능하며 기초 모델, 기본 제공 알고리즘 및 사전 구축된 ML 솔루션이 포함된 기계 학습(ML) 허브
+* [Amazon CodeWhisperer](https://aws.amazon.com/ko/codewhisperer/) - AI 코딩 도우미로 더 빠르고 안전하게 애플리케이션 구축
+* [Amazon CodeWhisperer Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/a33a5d69-1417-4d5f-acc9-ae5c7fba665b/en-US)
+* [Build a Python Event-driven Serverless App with Amazon CodeWhisperer](https://www.youtube.com/watch?v=8vkHLnhIFGA) (YouTube)
+
 ### 자료 모음
 * [Jaewoong. 딥러닝 학습자료 모음. `GitHub`](https://github.com/jwkcp/deeplearning) - "이 페이지는 개인적으로 딥러닝을 학습하면서 도움이 되었거나 자주 볼만한 자료들을 따로 모아둔 것입니다. 여러 사람이 함께 편집하면 더 큰 효용을 만들 수 있을 거라 생각합니다."
 * [Teddy Lee et al. Machine Learning Study 혼자 해보기. `GitHub`](https://github.com/teddylee777/machine-learning) - "더 많은 분들이 도움을 받으실 수 있도록, 좋은 공유 자료에 대하여 Pull Request를 날려주세요!"
